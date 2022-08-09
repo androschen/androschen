@@ -7,6 +7,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=androschen&show_icons=true&locale=en&layout=compact" alt="androschen" /></p>
+<p><img align="left" style="background-color:black" src="https://github-readme-stats.vercel.app/api/top-langs?username=androschen&show_icons=true&locale=en&layout=compact" alt="androschen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=androschen&show_icons=true&locale=en" alt="androschen" /></p>
