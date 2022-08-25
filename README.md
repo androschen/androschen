@@ -7,6 +7,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=androschen&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=androschen&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=androschen&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="ovi" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=androschen&show_icons=true&locale=en&theme=github_dark" alt="ovi" width="410" /></p>
 
